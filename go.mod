@@ -1,4 +1,4 @@
-module github.com/KarpelesLab/reflink
+module github.com/OldNavi/reflink
 
 go 1.19
 
